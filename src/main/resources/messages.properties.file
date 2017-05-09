@@ -1,0 +1,7 @@
+name.required = User Name is required
+password.required = Password is required
+user_phone.required = Phone is required
+user_email.required = user email is required
+
+#Custom validation annotation
+Phone=Invalid format, valid formats are 1234567890, 123-456-7890 x1234
